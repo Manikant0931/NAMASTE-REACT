@@ -27,21 +27,8 @@ This is a React project created to understand the **core concepts of React**, in
 
 ---
 
-## 📂 Project Structure
-react-project/
-│
-├── public/
-│ └── index.html
-│
-├── src/
-│ ├── App.js
-│ ├── index.js
-│ └── components/
-│
-├── package.json
-├── package-lock.json
-└── README.md
+## ~~~~MADE BY MANIKANT MISHRA
 
 
 
-~~~~MADE BY MANIKANT MISHRA
+
