@@ -2,6 +2,20 @@
 //Bhai array mein element dala hai toh uska ID (key) de,
 //warna React bolega — tu kaun?”
 
+// WHAT IS PARCEL?
+// Parcel is a web application bundler, similar to Webpack, but it is designed to be simpler and easier to use. It requires zero configuration to get started, making it a great choice for developers who want to quickly set up a project without dealing with complex configuration files.
+
+// Some key features of Parcel include:
+// Zero Configuration: Parcel works out of the box without the need for configuration files.
+// Fast Bundling: Parcel uses multiple cores to parallelize the bundling process, resulting in faster build times.
+// Hot Module Replacement (HMR): Parcel supports HMR, allowing developers to see changes in real-time without refreshing the browser.
+// Automatic Code Splitting: Parcel automatically splits code into smaller bundles for optimized loading.
+// Built-in Support for Various File Types: Parcel supports JavaScript, TypeScript, CSS, HTML, images, and more without additional plugins.
+// Easy to Use: Parcel has a simple command-line interface that makes it easy to start a new project.
+// Extensible: While Parcel works well out of the box, it also allows for customization and extension through plugins if needed.
+
+// Overall, Parcel is a great choice for developers who want a hassle-free bundling experience with minimal setup and configuration.
+
 import React from "react";
 import ReactDOM from "react-dom/client";
 
