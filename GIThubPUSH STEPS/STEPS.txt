@@ -1,0 +1,60 @@
+STEP 1: Create a New Repository on GitHub
+
+STEP 2: Initialize Git (If not already done)
+
+Run this in terminal:
+
+git init
+
+
+👉 This creates a .git folder (hidden)
+
+Check status:
+
+git status
+
+STEP 3: Add Remote GitHub Repository
+
+Copy-paste exactly this command:
+
+git remote add origin https://github.com/Manikant0931/NAMASTE-NODEjs.git
+
+
+Verify:
+
+git remote -v
+
+
+You should see:
+
+origin  https://github.com/Manikant0931/NAMASTE-NODEjs.git (fetch)
+origin  https://github.com/Manikant0931/NAMASTE-NODEjs.git (push)
+
+STEP 4: Add Files to Staging Area
+
+Add all files:
+
+git add .
+
+
+Check:
+
+git status
+
+
+You should see files in green (staged)
+
+STEP 5: Commit Your Code
+git commit -m "Initial commit for NAMASTE Node.js project"
+
+
+✔️ Now your code is saved locally in Git
+
+STEP 6: Set Branch to main (IMPORTANT)
+
+GitHub uses main by default:
+
+git branch -M main
+
+STEP 7: Push Code to GitHub 🚀
+git push -u origin main
